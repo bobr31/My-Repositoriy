@@ -1,0 +1,24 @@
+.boxfirst{
+		background-color:#F0E68C;
+		width: 1375px;
+		height: 1200px;
+		border: solid 2px #A0522D;
+		text-align: center;
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+	}
+	.menu li{
+		color: black;
+	}
+	.main-menu li{
+		background-color: lightgray;
+		padding: 7px;
+		display: inline-block;
+		font-size: 18px;
+
+
+	}
+	.main-menu h2{
+		text-align: center;
+	}

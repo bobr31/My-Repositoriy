@@ -1,0 +1,122 @@
+
+.boxfirst{
+		background-color:#F0E68C;
+		width: 1375px;
+		height: 1500px;
+		border: solid 2px #A0522D;
+		text-align: center;
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+	}
+	.menu li{
+		width: 300px;
+		height: 25px;
+		background-color: red;
+		color: black;
+	}
+	.main-menu li{
+		background-color: #A0522D;
+		padding: 7px;
+		display: inline-block;
+		font-size: 20px;
+
+
+	}
+	.main-menu h2{
+		text-align: center;
+}
+.container{
+	height: 39px;
+	background: #A0522D;
+}
+.boxsecond{
+	background-color:#F0E68C;
+		width: 1275px;
+		height: 1250px;
+		border: solid 2px #A0522D;
+		text-align: center;
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+}
+.hov{
+	height: 22px;
+	background: #A0522D;
+	text-align: center;
+	font-family:colonna mt;}
+.boxthree{
+	background-color:#F0E68C;
+		width: 1185px;
+		height: 1100px;
+		border: solid 2px #A0522D;
+	
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+		overflow: auto;
+}
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+ .dou{
+ 	height: 3px;
+	background: #A0522D;
+ }
+.boxfour{
+	background-color:#F0E68C;
+		width: 1275px;
+		height: 350px;
+		border: solid 2px #A0522D;
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+
+
+}
+.boxfive{background-color:#F0E68C;
+		width: 1375px;
+		height: 600px;
+		border: solid 2px #A0522D;
+	
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+
+}
+.center{
+	text-align: center;
+}
+.fig {
+    float: left; /* Обтекание картинки по левому краю */
+    padding-left: 10px; /* Отступ слева */
+    padding-bottom: 10px;
+    padding: 20px; /* Отступ снизу */
+   }
+   button{
+   	 font-size: 10pt;
+  padding: 5px;
+  border-radius: 8px;
+   }
+ .cob{
+ 	text-align: center;
+ }
+ .boxsix{background-color:#F0E68C;
+		width: 1375px;
+		height: 550px;
+		border: solid 2px #A0522D;
+	
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+	}
+.boxseven{
+	background-color:#F0E68C;
+		width: 1275px;
+		height: 300px;
+		border: solid 2px #A0522D;
+		margin-top: 40px;
+		margin-left: 40px;
+		margin-right: 40px; 
+}

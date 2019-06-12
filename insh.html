@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Фізичний калькулятор</title>
+	<link href='css/style.css' rel='stylesheet' type='text/css'>
+	
+</head>
+<body bgcolor="gray">
+	<div class="boxfive">
+		
+		<div class="menu main-menu">
+			
+			<H2 >Фізичний помічник</H2>
+			<div class="container">
+			<ul >
+
+				<li ><a href="golov.html" >Головна</a></li>
+				<li><a href="cikav.html" >Цікаві відомості</a></li>
+				<li><a href="cont.html" >Математичний помічник</a></li>
+				<li><a href="insh.html" >Фізичний помічник</a></li>
+			</ul>
+		</div>
+	
+		</div>
+<div class="boxfour">
+	<p><em>На цій сторінці ви можете знайти трохи цікавих калькуляторів , які рахують різні значення за формулами наших вчених.<p><b>P.S. : (сайт пробний тому будуть не всі вчені.)</b></p></em></p>
+	<p style="padding: 5px; class="fig">1.Формула Ейнштейна :<b>E=mc2</b></p>
+
+	
+	<p style="padding: 5px; class="fig">2.Формула Ньютона(з прискоренням та массою) :<b>F=ma</b>
+		<input type="radio" name="like" id="mc"><label for="mc">м/с</label>
+		<input type="radio" name="like" id="km"><label for="km">км/год</label></p>
+	<p style="padding: 5px; class="fig">3.Формула нагрівання:<b>Q=cm(t2-t1)</b></p>	
+	<p style="padding: 5px; class="fig">3.Формула охолодження:<b>Q=cm(t1-t2)</b></p>	
+	
+	<button onclick="handleClick()" class="fig">Ейнштейн</button>
+
+	<button onclick="vanClick()" class="fig">Ньютон</button>
+	<button onclick="fourClick()" class="fig">Нагрівання</button>
+<button onclick="fiveClick()" class="fig">Охолодження</button>
+	
+</div>
+</div>
+</div>
+<script src="javascript.js"></script>
+</body>
+</html>
